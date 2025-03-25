@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="enter_text_here">Enter Text Here</string>
+    <string name="encrypt_data">Encrypt Data</string>
+    <string name="access_ce_data">Access CE Data</string>
+    <string name="access_de_data">Access DE Data</string>
+    <string name="access_external_data">Access External Data</string>
+</resources>
